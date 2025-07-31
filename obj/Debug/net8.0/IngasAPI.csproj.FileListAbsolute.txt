@@ -1,0 +1,8 @@
+C:\Users\VICTUS\OneDrive\Desktop\IngasAPI\obj\Debug\net8.0\IngasAPI.csproj.AssemblyReference.cache
+C:\Users\VICTUS\OneDrive\Desktop\IngasAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\VICTUS\OneDrive\Desktop\IngasAPI\obj\Debug\net8.0\IngasAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VICTUS\OneDrive\Desktop\IngasAPI\obj\Debug\net8.0\IngasAPI.AssemblyInfoInputs.cache
+C:\Users\VICTUS\OneDrive\Desktop\IngasAPI\obj\Debug\net8.0\IngasAPI.AssemblyInfo.cs
+C:\Users\VICTUS\OneDrive\Desktop\IngasAPI\obj\Debug\net8.0\IngasAPI.csproj.CoreCompileInputs.cache
+C:\Users\VICTUS\OneDrive\Desktop\IngasAPI\obj\Debug\net8.0\IngasAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\VICTUS\OneDrive\Desktop\IngasAPI\obj\Debug\net8.0\IngasAPI.MvcApplicationPartsAssemblyInfo.cache
